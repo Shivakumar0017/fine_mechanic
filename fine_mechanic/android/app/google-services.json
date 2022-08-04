@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "996389398017",
+    "project_id": "finemechanic-58dde",
+    "storage_bucket": "finemechanic-58dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996389398017:android:1986af91c2706035108200",
+        "android_client_info": {
+          "package_name": "com.flutterflow.FineMechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996389398017-c20cbvkki9d791cqhigc69ebj1p95h61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.FineMechanic",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "996389398017-bdm0h5sgbtgte18mlktji1mqs61uo87e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGCab-KzwSDngA5KAIWXBryUEuwpQmCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996389398017-bdm0h5sgbtgte18mlktji1mqs61uo87e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996389398017-7kaitdnv7go8l26e9f4gdfg55kgqg662.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.FineMechanic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
